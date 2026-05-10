@@ -1,0 +1,7 @@
+config.py
+*.csv
+*.png
+coleta_log.txt
+__pycache__/
+*.pyc
+offload_model_weights/
