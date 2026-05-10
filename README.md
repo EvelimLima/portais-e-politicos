@@ -10,7 +10,7 @@ Desenvolvida no contexto do **Projeto PIBIC 2025/2026** — Instituto de Computa
 
 ## Demonstração
 
-📹 Vídeo demonstrativo: [YouTube](https://youtu.be/%5Blink%5D)
+📹 Vídeo demonstrativo: [YouTube](https://youtu.be/20AWtBJaK8c)
 
 ---
 
@@ -44,7 +44,7 @@ Testado com NVIDIA GeForce RTX 3050 6 GB Laptop GPU, CUDA 12.1.
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/[repositorio].git
+git clone https://github.com/EvelimLima/portais-e-politicos
 cd portais-e-politicos
 ```
 
@@ -132,23 +132,6 @@ Validação sobre 426 notícias políticas do Amazonas anotadas manualmente.
 | BERT Multilingual   | Encoder | 56,6%     | 0,495     | 58                      |
 
 A principal dificuldade dos três modelos é a classe Neutro — comportamento esperado em textos jornalísticos formais. A confusão entre Positivo e Negativo (erro mais grave) é mínima no Llama e no RoBERTa.
-
----
-
-## Citação
-
-```bibtex
-@inproceedings{lima2026portais,
-  author    = {Lima, Evelim Lopes and Carvalho, Andre Luiz da Costa},
-  title     = {Portais e Políticos: Uma Ferramenta Modular para Monitoramento
-               e Análise de Sentimento de Notícias Políticas via LLMs Locais},
-  booktitle = {Anais do XLI Simpósio Brasileiro de Banco de Dados (SBBD)},
-  year      = {2026},
-  publisher = {SBC}
-}
-```
-
----
 
 ## Licença
 
