@@ -32,7 +32,7 @@ Desenvolvida no contexto do **Projeto PIBIC 2025/2026** — Instituto de Computa
 | Componente        | Mínimo recomendado              |
 | ----------------- | -------------------------------- |
 | GPU NVIDIA (CUDA) | 6 GB VRAM                        |
-| RAM               | 16 GB                            |
+| RAM               | 8 GB                            |
 | Armazenamento     | 10 GB livres (cache dos modelos) |
 
 Testado com NVIDIA GeForce RTX 3050 6 GB Laptop GPU, CUDA 12.1.
