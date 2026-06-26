@@ -135,4 +135,4 @@ A principal dificuldade dos três modelos é a classe Neutro — comportamento e
 
 ## Licença
 
-MIT License — veja [LICENSE](https://claude.ai/chat/LICENSE) para detalhes.
+MIT License — veja [LICENSE](https://github.com/EvelimLima/portais-e-politicos/tree/main?tab=MIT-1-ov-file) para detalhes.
