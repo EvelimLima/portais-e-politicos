@@ -10,7 +10,7 @@ Desenvolvida no contexto do **Projeto PIBIC 2025/2026** — Instituto de Computa
 
 ## Demonstração
 
-📹 Vídeo demonstrativo: [YouTube](https://youtu.be/20AWtBJaK8c)
+📹 Vídeo demonstrativo: [YouTube](https://youtu.be/v9Qc0yESCrA)
 
 ---
 
